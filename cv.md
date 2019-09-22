@@ -13,7 +13,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <title>Дневник начинающего верстальщика</title>
+    <title>Пример</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
@@ -25,8 +25,8 @@
     </header>
     <main>
       <article>
-        <h1>День первый. Как я забыл покормить кота</h1>
-        <p>Кто бы мог подумать, что семантика это так важно...</p>
+        <h1>Заголовок 1</h1>
+        <p>Текст...</p>
       </article>
       <aside class="partnership">
         Тут могла быть ваша реклама
