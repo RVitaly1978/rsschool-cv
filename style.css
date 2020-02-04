@@ -1,0 +1,22 @@
+body {
+  margin: auto;
+  width: 1024px;
+  font-size: 16px;
+  font-family: "Arial", sans-serif;
+}
+
+.photo {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.example {
+  font-size: 14px;
+  color: #333333;
+}
+
+ul.contacts {
+  font-size: 14px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+}
